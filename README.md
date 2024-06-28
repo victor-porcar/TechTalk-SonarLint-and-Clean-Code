@@ -1,0 +1,1 @@
+# TechTalk-SonarLint-and-Clean-Code
